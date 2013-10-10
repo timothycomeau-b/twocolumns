@@ -1,4 +1,4 @@
-twocolumns
+Basic Two Columns Template 
 ==========
 
-Basic two column layout with footer
+Basic two colum layout with header / left / right / bottom / footer
